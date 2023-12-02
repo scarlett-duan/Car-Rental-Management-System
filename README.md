@@ -1,9 +1,9 @@
-# Car-Rental-Management-System
-汽车租赁信息管理系统 (面向对象程序设计课程设计)
+# Car Rental Information Management System (Object-Oriented Programming Course Project)
+(Based on Java Swing components, file operations using the IO library)
+
+Design Requirements: Design a graphical user interface-based program to achieve the following functions:
 ```
-(基于Java Swing组件 文件操作选用IO库)   
-设计要求：设计一个基于图形界面的图形交互程序，实现下列功能：
-  1.管理员/负责人登录  
-  2.汽车信息的录入、修改、查询、删除  
-  3.客户租赁信息的录入、修改、查询   
-  4.客户归还汽车信息管理
+Administrator/Manager Login
+Input, modification, query, and deletion of car information
+Input, modification, and query of customer rental information
+Management of customer car return information
